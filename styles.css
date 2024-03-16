@@ -1,3 +1,6 @@
 a{
     text-decoration: none;
 }
+canvas.vanta-canvas{
+    min-height: 20em !important;
+}
